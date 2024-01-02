@@ -1,3 +1,4 @@
+![succulent.png](./succulent.png "succulent.png")
 ![3078196.jpg](./space_station.jpg "space_station.jpg")
 ![3078196.jpg](./3078196.jpg "3078196.jpg")
 ![614a8b5.jpg](./614a8b5.jpg "614a8b5.jpg")
