@@ -1,3 +1,4 @@
+![dark_fern](https://github.com/user-attachments/assets/0406ae0e-6df7-452a-b969-82996cabea96)
 ![F29_micah_denn.png](./F29_micah_denn.png)
 ![succulent.png](./succulent.png "succulent.png")
 ![3078196.jpg](./space_station.jpg "space_station.jpg")
