@@ -1,4 +1,4 @@
-![F29_micah_denn.png](./F29_micah_denn.png")
+![F29_micah_denn.png](./F29_micah_denn.png)
 ![succulent.png](./succulent.png "succulent.png")
 ![3078196.jpg](./space_station.jpg "space_station.jpg")
 ![3078196.jpg](./3078196.jpg "3078196.jpg")
