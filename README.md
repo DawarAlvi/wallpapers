@@ -1,3 +1,4 @@
+![dark-neon-lines](https://github.com/user-attachments/assets/af16d06a-b62f-4b00-8bbf-6b86dc95e1f6)
 ![yellow_and_gray](https://github.com/user-attachments/assets/9543e5c5-262c-4479-abe4-8996f7870d05)
 ![dark_fern](https://github.com/user-attachments/assets/0406ae0e-6df7-452a-b969-82996cabea96)
 ![F29_micah_denn.png](./F29_micah_denn.png)
